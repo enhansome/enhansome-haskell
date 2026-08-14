@@ -1,0 +1,217 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stack",
+          "description": "a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-07-26T18:00:48Z",
+            "owner": "commercialhaskell",
+            "repo": "stack",
+            "stars": 4074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stackage",
+          "description": "\"Stable Hackage,\" tools for creating a vetted set of packages from Hackage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-13T17:07:35Z",
+            "owner": "commercialhaskell",
+            "repo": "stackage",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hsenv",
+          "description": "a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2013-12-16T18:23:10Z",
+            "owner": "Paczesiowa",
+            "repo": "hsenv",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Basics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deiko-config",
+          "description": "small typesafe library that uses HOCON config format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T15:19:54Z",
+            "owner": "lightbend",
+            "repo": "config",
+            "stars": 6311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dhall",
+          "description": "A configuration language guaranteed to terminate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-13T16:42:20Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SimpleX Chat",
+          "description": "the first chat platform that is 100% private by design - it has no access to your connection graph!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-13T17:31:03Z",
+            "owner": "simplex-chat",
+            "repo": "simplex-chat",
+            "stars": 19255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amqp",
+          "description": "client library for AMQP servers (currently only RabbitMQ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-10-14T20:36:15Z",
+            "owner": "hreinhardt",
+            "repo": "amqp",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conduit",
+          "description": "a streaming data library. Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-06-26T05:53:23Z",
+            "owner": "snoyberg",
+            "repo": "conduit",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HStreamDB",
+          "description": "The streaming database built for IoT data storage and real-time processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-12-26T02:51:04Z",
+            "owner": "hstreamdb",
+            "repo": "hstream",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipes",
+          "description": "is a clean and powerful stream processing library that lets you build and connect reusable streaming components. Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-10-15T20:23:36Z",
+            "owner": "Gabriella439",
+            "repo": "pipes",
+            "stars": 492
+          }
+        }
+      ],
+      "title": "Streaming Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "learnhaskell",
+          "description": "Haskell Learning (also for non-English speakers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-20T17:07:02Z",
+            "owner": "bitemyapp",
+            "repo": "learnhaskell",
+            "stars": 8034
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "H-99",
+          "description": "Ninety-Nine Haskell Problems.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scotty-Tutorials-&-Examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2026-06-26T10:50:49Z",
+                "owner": "scotty-web",
+                "repo": "scotty",
+                "stars": 1775
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T01:02:29.464Z",
+    "original_repository": "krispo/awesome-haskell",
+    "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
+    "enhanced_repository": "enhansome/enhansome-haskell",
+    "enhanced_repository_description": null,
+    "title": "Awesome Haskell with stars"
+  }
+}
