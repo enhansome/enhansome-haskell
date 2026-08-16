@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:14:12Z",
             "owner": "commercialhaskell",
             "repo": "stack",
-            "stars": 4075
+            "stars": 4076
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-14T16:59:06Z",
+            "last_commit": "2026-08-15T08:54:08Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 552
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-14T21:03:12Z",
+            "last_commit": "2026-08-15T18:27:10Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19261
+            "stars": 19265
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-07-20T17:07:02Z",
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8034
+            "stars": 8033
           }
         },
         {
@@ -207,7 +207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:37:52.954Z",
+    "last_updated": "2026-08-16T00:39:41.178Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
     "enhanced_repository": "enhansome/enhansome-haskell",
