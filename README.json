@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-14T19:14:12Z",
+            "last_commit": "2026-08-16T23:07:25Z",
             "owner": "commercialhaskell",
             "repo": "stack",
             "stars": 4076
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T08:54:08Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dhall",
-            "last_commit": "2026-08-14T16:56:12Z",
+            "last_commit": "2026-08-17T00:31:39Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-15T18:27:10Z",
+            "last_commit": "2026-08-16T21:51:56Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19265
+            "stars": 19270
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-07-20T17:07:02Z",
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8033
+            "stars": 8032
           }
         },
         {
@@ -207,7 +207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T00:39:41.178Z",
+    "last_updated": "2026-08-17T00:37:10.918Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
     "enhanced_repository": "enhansome/enhansome-haskell",
