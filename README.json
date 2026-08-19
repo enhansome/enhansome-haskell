@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34817922,
             "language": "Haskell",
             "last_commit": "2026-08-18T23:19:45Z",
             "owner": "commercialhaskell",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-15T08:54:08Z",
+            "last_commit": "2026-08-19T11:43:52Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 553
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2762026,
             "language": "Haskell",
             "last_commit": "2013-12-16T18:23:10Z",
             "owner": "Paczesiowa",
@@ -49,7 +52,7 @@
       "title": "Basics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2923236,
             "language": "Java",
             "last_commit": "2026-07-01T15:19:54Z",
             "owner": "lightbend",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -83,7 +88,43 @@
       "title": "Configuration"
     },
     {
-      "description": "",
+      "description": "Additional libraries",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HTTP",
+          "description": "Haskell HTTP package. Supports client-side web programming in Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1039256,
+            "language": "Haskell",
+            "last_commit": "2026-01-28T08:28:42Z",
+            "owner": "haskell",
+            "repo": "HTTP",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hoauth2",
+          "description": "a lightweight oauth2 haskell binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4171810,
+            "language": "Haskell",
+            "last_commit": "2026-08-13T03:07:16Z",
+            "owner": "freizl",
+            "repo": "hoauth2",
+            "stars": 136
+          }
+        }
+      ],
+      "title": "Web / Frameworks"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-18T23:10:57Z",
+            "last_commit": "2026-08-19T11:47:43Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19273
+            "stars": 19276
           }
         },
         {
@@ -106,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226999,
             "language": "Haskell",
             "last_commit": "2024-10-14T20:36:15Z",
             "owner": "hreinhardt",
@@ -117,7 +160,7 @@
       "title": "Messaging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -126,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2956839,
             "language": "Haskell",
             "last_commit": "2025-06-26T05:53:23Z",
             "owner": "snoyberg",
@@ -140,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291675222,
             "language": "Haskell",
             "last_commit": "2024-12-26T02:51:04Z",
             "owner": "hstreamdb",
@@ -154,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3132856,
             "language": "Haskell",
             "last_commit": "2022-10-15T20:23:36Z",
             "owner": "Gabriella439",
@@ -165,50 +211,60 @@
       "title": "Streaming Processing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "learnhaskell",
-          "description": "Haskell Learning (also for non-English speakers).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-07-20T17:07:02Z",
-            "owner": "bitemyapp",
-            "repo": "learnhaskell",
-            "stars": 8032
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "H-99",
-          "description": "Ninety-Nine Haskell Problems.",
           "children": [
             {
               "node_type": "item",
-              "title": "Scotty-Tutorials-&-Examples",
-              "description": null,
+              "title": "learnhaskell",
+              "description": "Haskell Learning (also for non-English speakers).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Haskell",
-                "last_commit": "2026-06-26T10:50:49Z",
-                "owner": "scotty-web",
-                "repo": "scotty",
-                "stars": 1775
+                "id": 19955205,
+                "language": "Makefile",
+                "last_commit": "2026-07-20T17:07:02Z",
+                "owner": "bitemyapp",
+                "repo": "learnhaskell",
+                "stars": 8033
               }
+            },
+            {
+              "node_type": "group",
+              "title": "H-99",
+              "description": "Ninety-Nine Haskell Problems.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Scotty-Tutorials-&-Examples",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3077100,
+                    "language": "Haskell",
+                    "last_commit": "2026-06-26T10:50:49Z",
+                    "owner": "scotty-web",
+                    "repo": "scotty",
+                    "stars": 1775
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Tutorials"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:37:45.384Z",
+    "last_updated": "2026-08-19T12:36:32.958Z",
     "original_repository": "krispo/awesome-haskell",
+    "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
     "enhanced_repository": "enhansome/enhansome-haskell",
     "enhanced_repository_description": null,
