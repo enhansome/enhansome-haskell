@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-20T00:23:22Z",
+            "last_commit": "2026-08-20T14:06:36Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
-            "stars": 553
+            "stars": 552
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-01T15:19:54Z",
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6311
+            "stars": 6312
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-19T22:36:16Z",
+            "last_commit": "2026-08-20T21:29:39Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 968
+            "stars": 967
           }
         }
       ],
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-19T17:20:20Z",
+            "last_commit": "2026-08-20T17:42:02Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19277
+            "stars": 19286
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2025-06-26T05:53:23Z",
             "owner": "snoyberg",
             "repo": "conduit",
-            "stars": 915
+            "stars": 914
           }
         },
         {
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:37:09.120Z",
+    "last_updated": "2026-08-21T00:39:42.587Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
