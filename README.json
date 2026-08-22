@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34817922,
             "language": "Haskell",
-            "last_commit": "2026-08-18T23:19:45Z",
+            "last_commit": "2026-08-21T21:10:07Z",
             "owner": "commercialhaskell",
             "repo": "stack",
-            "stars": 4076
+            "stars": 4077
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-20T14:06:36Z",
+            "last_commit": "2026-08-21T08:47:54Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 552
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-01T15:19:54Z",
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6312
+            "stars": 6314
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-20T21:29:39Z",
+            "last_commit": "2026-08-21T19:02:44Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 967
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-20T17:42:02Z",
+            "last_commit": "2026-08-21T20:26:51Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19286
+            "stars": 19289
           }
         },
         {
@@ -247,7 +247,7 @@
                     "last_commit": "2026-06-26T10:50:49Z",
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1775
+                    "stars": 1776
                   }
                 }
               ]
@@ -262,7 +262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:39:42.587Z",
+    "last_updated": "2026-08-22T00:37:01.805Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
