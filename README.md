@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,303 | 🐛 106 | 📅 2026-08-21 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -48,7 +48,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## *Basics*
 
 * [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,077 | 🐛 607 | 🌐 Haskell | 📅 2026-08-22 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) ⭐ 552 | 🐛 60 | 🌐 Dockerfile | 📅 2026-08-23 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Stackage](https://github.com/fpco/stackage) ⭐ 552 | 🐛 61 | 🌐 Dockerfile | 📅 2026-08-24 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) ⭐ 121 | 🐛 19 | 🌐 Haskell | 📅 2013-12-16 - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,300 | 🐛 1,209 | 🌐 Haskell | 📅 2026-08-23 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,302 | 🐛 1,211 | 🌐 Haskell | 📅 2026-08-24 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -430,6 +430,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ### Video Tutorials
 
+* [Awesome Haskell Videos](https://github.com/andys8/awesome-haskell-videos) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-26 - Curated list of Haskell talks and tutorials
 * [Redoing Make - Haskell from Scratch](http://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
 * [Haskell - Code Deconstructed](http://www.youtube.com/playlist?list=PLxj9UAX4Em-IBXkvcC3MycLlcxyoi7v8B)
 * [Adventures in Haskell - A Calculator](http://www.youtube.com/playlist?list=PL_xuff3BkASMOzBr0hKVKLuSnU4UIinKx)
@@ -437,7 +438,6 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [LazyCasts](http://www.youtube.com/user/LazyCasts)
 * [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
 * [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I\&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - Video lectures to accompany the book "Learn You a Haskell for Great Good!"
-* [Awesome Haskell Videos](https://github.com/andys8/awesome-haskell-videos) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-26 - Curated list of Haskell talks and tutorials
 * [IHP Casts](https://ihpcasts.com/ShowEpisode?episodeId=ab384647-3665-4a36-b5e5-e05fea6c2288) Learn to build type-safe web apps with Haskell and IHP
 
 ## Courses

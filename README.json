@@ -27,7 +27,7 @@
             "archived": false,
             "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-23T19:19:16Z",
+            "last_commit": "2026-08-24T05:02:42Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 552
@@ -88,6 +88,48 @@
       "title": "Configuration"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Haxl",
+          "description": "a library for efficient, concurrent, concise data access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18379853,
+            "language": "Haskell",
+            "last_commit": "2026-03-15T22:04:40Z",
+            "owner": "facebook",
+            "repo": "Haxl",
+            "stars": 4376
+          }
+        }
+      ],
+      "title": "Data Access"
+    },
+    {
+      "description": "Additional libraries",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "m2cgen",
+          "description": "A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165457814,
+            "language": "Python",
+            "last_commit": "2024-08-03T17:30:36Z",
+            "owner": "BayesWitnesses",
+            "repo": "m2cgen",
+            "stars": 2998
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
       "description": "Additional libraries",
       "items": [
         {
@@ -135,10 +177,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-23T20:51:15Z",
+            "last_commit": "2026-08-24T13:44:46Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19300
+            "stars": 19302
           }
         },
         {
@@ -251,6 +293,28 @@
                   }
                 }
               ]
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Haskell Videos",
+                  "description": "Curated list of Haskell talks and tutorials",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 264227769,
+                    "language": "TypeScript",
+                    "last_commit": "2023-06-26T08:13:12Z",
+                    "owner": "andys8",
+                    "repo": "awesome-haskell-videos",
+                    "stars": 46
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video Tutorials"
             }
           ],
           "description": null,
@@ -262,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:39:11.893Z",
+    "last_updated": "2026-08-24T13:58:52.411Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
