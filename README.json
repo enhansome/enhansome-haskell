@@ -269,7 +269,7 @@
                 "last_commit": "2026-07-20T17:07:02Z",
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8032
+                "stars": 8033
               }
             },
             {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:38:32.339Z",
+    "last_updated": "2026-08-25T05:52:24.158Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",

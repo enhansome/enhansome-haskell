@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,623 | 🐛 106 | 📅 2026-08-21 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -48,7 +48,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## *Basics*
 
 * [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,077 | 🐛 607 | 🌐 Haskell | 📅 2026-08-22 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) ⭐ 552 | 🐛 61 | 🌐 Dockerfile | 📅 2026-08-24 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Stackage](https://github.com/fpco/stackage) ⭐ 552 | 🐛 62 | 🌐 Dockerfile | 📅 2026-08-24 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) ⭐ 121 | 🐛 19 | 🌐 Haskell | 📅 2013-12-16 - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
@@ -410,7 +410,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Tutorials
 
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,032 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,033 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
