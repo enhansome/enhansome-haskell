@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,623 | 🐛 106 | 📅 2026-08-21 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -135,7 +135,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Configuration
 
 * [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,313 | 🐛 243 | 🌐 Java | 📅 2026-07-01 config format
-* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 967 | 🐛 167 | 🌐 Dhall | 📅 2026-08-22 - A configuration language guaranteed to terminate
+* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22 - A configuration language guaranteed to terminate
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,302 | 🐛 1,211 | 🌐 Haskell | 📅 2026-08-24 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,306 | 🐛 1,212 | 🌐 Haskell | 📅 2026-08-24 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -471,4 +471,4 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
