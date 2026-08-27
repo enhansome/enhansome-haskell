@@ -78,7 +78,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-26T06:07:37Z",
+            "last_commit": "2026-08-27T10:52:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
@@ -102,7 +102,7 @@
             "last_commit": "2026-03-15T22:04:40Z",
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4376
+            "stars": 4377
           }
         }
       ],
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-26T18:40:29Z",
+            "last_commit": "2026-08-27T10:45:53Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19317
+            "stars": 19322
           }
         },
         {
@@ -326,9 +326,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:40:20.601Z",
-    "original_repository": "krispo/awesome-haskell",
-    "original_repository_id": 21791844,
+    "last_updated": "2026-08-27T11:45:23.562Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21791844,
+      "language": "Python",
+      "last_commit": "2026-08-03T08:39:39Z",
+      "owner": "krispo",
+      "repo": "awesome-haskell",
+      "stars": 3284
+    },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
     "enhanced_repository": "enhansome/enhansome-haskell",
     "enhanced_repository_description": null,
