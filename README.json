@@ -27,7 +27,7 @@
             "archived": false,
             "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-25T19:17:11Z",
+            "last_commit": "2026-08-26T23:05:30Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 552
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-25T14:10:01Z",
+            "last_commit": "2026-08-26T06:07:37Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 968
+            "stars": 970
           }
         }
       ],
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-25T21:50:40Z",
+            "last_commit": "2026-08-26T18:40:29Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19307
+            "stars": 19317
           }
         },
         {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T00:39:03.630Z",
+    "last_updated": "2026-08-27T05:40:20.601Z",
     "original_repository": "krispo/awesome-haskell",
     "original_repository_id": 21791844,
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
