@@ -16,7 +16,8 @@
             "owner": "commercialhaskell",
             "repo": "stack",
             "stars": 4077
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 6774018,
             "language": "Dockerfile",
-            "last_commit": "2026-08-26T23:05:30Z",
+            "last_commit": "2026-08-28T00:13:32Z",
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Paczesiowa",
             "repo": "hsenv",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Basics"
@@ -67,7 +70,8 @@
             "owner": "lightbend",
             "repo": "config",
             "stars": 6313
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T10:52:34Z",
+            "last_commit": "2026-08-27T20:04:19Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Configuration"
@@ -103,7 +108,8 @@
             "owner": "facebook",
             "repo": "Haxl",
             "stars": 4377
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Data Access"
@@ -124,7 +130,8 @@
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
             "stars": 2998
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Data Science"
@@ -145,7 +152,8 @@
             "owner": "haskell",
             "repo": "HTTP",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "freizl",
             "repo": "hoauth2",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Web / Frameworks"
@@ -177,11 +186,12 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-27T10:45:53Z",
+            "last_commit": "2026-08-28T07:48:29Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19322
-          }
+            "stars": 19326
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -196,7 +206,8 @@
             "owner": "hreinhardt",
             "repo": "amqp",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Messaging"
@@ -217,7 +228,8 @@
             "owner": "snoyberg",
             "repo": "conduit",
             "stars": 914
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -232,7 +244,8 @@
             "owner": "hstreamdb",
             "repo": "hstream",
             "stars": 722
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         },
         {
           "node_type": "item",
@@ -247,7 +260,8 @@
             "owner": "Gabriella439",
             "repo": "pipes",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T07:48:54.804Z"
         }
       ],
       "title": "Streaming Processing"
@@ -270,7 +284,8 @@
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
                 "stars": 8033
-              }
+              },
+              "first_seen": "2026-08-28T07:48:54.804Z"
             },
             {
               "node_type": "group",
@@ -290,7 +305,8 @@
                     "owner": "scotty-web",
                     "repo": "scotty",
                     "stars": 1776
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:48:54.804Z"
                 }
               ]
             },
@@ -309,7 +325,8 @@
                     "owner": "andys8",
                     "repo": "awesome-haskell-videos",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:48:54.804Z"
                 }
               ],
               "description": null,
@@ -326,7 +343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:23.562Z",
+    "last_updated": "2026-08-28T07:48:54.804Z",
     "original_repository_info": {
       "archived": false,
       "id": 21791844,
