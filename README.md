@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,899 | 🐛 105 | 📅 2026-08-21 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)

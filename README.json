@@ -268,7 +268,7 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T04:17:17Z",
+            "last_commit": "2026-08-29T05:04:42Z",
             "open_issues": 1217,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:19.369Z",
+    "last_updated": "2026-08-29T05:06:25.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
