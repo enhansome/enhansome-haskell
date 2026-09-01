@@ -36,7 +36,7 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:49:29Z",
+            "last_commit": "2026-08-31T20:20:36Z",
             "open_issues": 63,
             "owner": "commercialhaskell",
             "repo": "stackage",
@@ -88,7 +88,7 @@
             "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313,
+            "stars": 6312,
             "topics": [
               "configuration-library",
               "hocon",
@@ -109,11 +109,11 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T18:59:13Z",
-            "open_issues": 166,
+            "last_commit": "2026-08-31T09:05:50Z",
+            "open_issues": 168,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 970,
+            "stars": 971,
             "topics": [
               "configuration-language",
               "dhall",
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2998,
+            "stars": 2999,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T15:55:16Z",
-            "open_issues": 1218,
+            "last_commit": "2026-08-31T22:43:27Z",
+            "open_issues": 1221,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19341,
+            "stars": 19352,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T02:14:12.068Z",
+    "last_updated": "2026-09-01T02:33:14.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
