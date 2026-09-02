@@ -19,7 +19,7 @@
             "open_issues": 607,
             "owner": "commercialhaskell",
             "repo": "stack",
-            "stars": 4078,
+            "stars": 4079,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -40,7 +40,7 @@
             "open_issues": 63,
             "owner": "commercialhaskell",
             "repo": "stackage",
-            "stars": 552,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T09:05:50Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-01T19:23:27Z",
+            "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 971,
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4377,
+            "stars": 4376,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T22:43:27Z",
-            "open_issues": 1221,
+            "last_commit": "2026-09-01T22:49:40Z",
+            "open_issues": 1222,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19352,
+            "stars": 19362,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:33:14.087Z",
+    "last_updated": "2026-09-02T01:54:02.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3284,
+      "stars": 3282,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
