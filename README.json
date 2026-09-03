@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T22:49:40Z",
-            "open_issues": 1222,
+            "last_commit": "2026-09-02T19:06:52Z",
+            "open_issues": 1220,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19362,
+            "stars": 19369,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:54:02.859Z",
+    "last_updated": "2026-09-03T01:59:53.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3282,
+      "stars": 3281,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
