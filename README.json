@@ -37,7 +37,7 @@
             "language": "Dockerfile",
             "license": "MIT",
             "last_commit": "2026-08-31T20:20:36Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -88,7 +88,7 @@
             "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6312,
+            "stars": 6313,
             "topics": [
               "configuration-library",
               "hocon",
@@ -109,7 +109,7 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T01:41:53Z",
+            "last_commit": "2026-09-05T07:39:27Z",
             "open_issues": 169,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T19:25:11Z",
-            "open_issues": 1222,
+            "last_commit": "2026-09-05T20:23:35Z",
+            "open_issues": 1225,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19386,
+            "stars": 19387,
             "topics": [
               "chat",
               "double-ratchet",
@@ -330,7 +330,7 @@
             "open_issues": 57,
             "owner": "snoyberg",
             "repo": "conduit",
-            "stars": 914,
+            "stars": 913,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8034,
+                "stars": 8035,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:55:39.734Z",
+    "last_updated": "2026-09-06T01:50:16.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
