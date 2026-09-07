@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-08-31T20:20:36Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-06T17:15:54Z",
+            "open_issues": 63,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -88,7 +88,7 @@
             "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313,
+            "stars": 6312,
             "topics": [
               "configuration-library",
               "hocon",
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3000,
+            "stars": 3001,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T20:23:35Z",
-            "open_issues": 1225,
+            "last_commit": "2026-09-06T22:06:30Z",
+            "open_issues": 1229,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19387,
+            "stars": 19391,
             "topics": [
               "chat",
               "double-ratchet",
@@ -447,7 +447,7 @@
                     "open_issues": 29,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1776,
+                    "stars": 1775,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:50:16.007Z",
+    "last_updated": "2026-09-07T01:47:37.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
