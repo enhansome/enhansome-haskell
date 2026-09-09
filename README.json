@@ -19,7 +19,7 @@
             "open_issues": 607,
             "owner": "commercialhaskell",
             "repo": "stack",
-            "stars": 4079,
+            "stars": 4078,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -61,7 +61,7 @@
             "open_issues": 19,
             "owner": "Paczesiowa",
             "repo": "hsenv",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -85,10 +85,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-07-01T15:19:54Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313,
+            "stars": 6314,
             "topics": [
               "configuration-library",
               "hocon",
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4376,
+            "stars": 4375,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3001,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T22:51:51Z",
-            "open_issues": 1232,
+            "last_commit": "2026-09-08T22:13:58Z",
+            "open_issues": 1234,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19403,
+            "stars": 19405,
             "topics": [
               "chat",
               "double-ratchet",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8035,
+                "stars": 8034,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -447,7 +447,7 @@
                     "open_issues": 29,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1775,
+                    "stars": 1774,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:59:04.127Z",
+    "last_updated": "2026-09-09T02:03:58.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3281,
+      "stars": 3280,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
