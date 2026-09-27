@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-25T19:57:31Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-26T16:08:38Z",
+            "open_issues": 69,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T21:33:05Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-26T20:54:23Z",
+            "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 973,
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4375,
+            "stars": 4376,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,8 +268,8 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T21:20:52Z",
-            "open_issues": 1264,
+            "last_commit": "2026-09-26T22:49:36Z",
+            "open_issues": 1262,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
             "stars": 19491,
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T02:28:41.498Z",
+    "last_updated": "2026-09-27T02:26:04.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
