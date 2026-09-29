@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:26:31Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-29T00:15:17Z",
+            "open_issues": 71,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -84,8 +84,8 @@
             "id": 2923236,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-23T14:59:41Z",
-            "open_issues": 248,
+            "last_commit": "2026-09-28T11:57:30Z",
+            "open_issues": 246,
             "owner": "lightbend",
             "repo": "config",
             "stars": 6313,
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-27T16:27:46Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-28T16:22:15Z",
+            "open_issues": 154,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 974,
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4376,
+            "stars": 4375,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3002,
+            "stars": 3001,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T21:21:32Z",
+            "last_commit": "2026-09-28T17:38:16Z",
             "open_issues": 1263,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19495,
+            "stars": 19503,
             "topics": [
               "chat",
               "double-ratchet",
@@ -351,7 +351,7 @@
             "open_issues": 11,
             "owner": "hstreamdb",
             "repo": "hstream",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "data-processing",
               "database",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8032,
+                "stars": 8031,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T02:29:46.537Z",
+    "last_updated": "2026-09-29T03:12:46.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
