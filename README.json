@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-29T00:15:17Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-30T01:48:06Z",
+            "open_issues": 68,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T16:22:15Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-29T20:59:24Z",
+            "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 974,
@@ -268,8 +268,8 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T17:38:16Z",
-            "open_issues": 1263,
+            "last_commit": "2026-09-29T22:01:35Z",
+            "open_issues": 1275,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
             "stars": 19503,
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8031,
+                "stars": 8030,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -447,7 +447,7 @@
                     "open_issues": 29,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1774,
+                    "stars": 1775,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T03:12:46.628Z",
+    "last_updated": "2026-09-30T02:55:13.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3279,
+      "stars": 3280,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
