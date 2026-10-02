@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T02:46:54Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-01T20:08:34Z",
+            "open_issues": 155,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 974,
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "facebook",
             "repo": "Haxl",
-            "stars": 4375,
+            "stars": 4369,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T18:15:18Z",
+            "last_commit": "2026-10-01T23:48:53Z",
             "open_issues": 1276,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19508,
+            "stars": 19512,
             "topics": [
               "chat",
               "double-ratchet",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8030,
+                "stars": 8031,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T03:01:13.952Z",
+    "last_updated": "2026-10-02T03:03:48.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3280,
+      "stars": 3276,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
