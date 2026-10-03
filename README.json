@@ -434,7 +434,7 @@
                 {
                   "node_type": "item",
                   "title": "Scotty-Tutorials-&-Examples",
-                  "description": null,
+                  "description": "scotty-web/scotty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:50:21.548Z",
+    "last_updated": "2026-10-03T04:51:52.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
