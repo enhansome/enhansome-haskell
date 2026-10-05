@@ -37,7 +37,7 @@
             "language": "Dockerfile",
             "license": "MIT",
             "last_commit": "2026-10-03T14:39:34Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 551,
@@ -109,7 +109,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3001,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T19:02:31Z",
-            "open_issues": 1278,
+            "last_commit": "2026-10-04T20:04:24Z",
+            "open_issues": 1276,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19514,
+            "stars": 19520,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T03:20:20.857Z",
+    "last_updated": "2026-10-05T02:56:52.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
