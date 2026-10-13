@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,748 | 🐛 105 | 📅 2026-09-02 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,246 | 🐛 105 | 📅 2026-09-02 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -134,8 +134,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Configuration
 
-* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,313 | 🐛 262 | 🌐 Java | 📅 2026-10-06 config format
-* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 973 | 🐛 154 | 🌐 Python | 📅 2026-10-11 - A configuration language guaranteed to terminate
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,314 | 🐛 262 | 🌐 Java | 📅 2026-10-06 config format
+* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 973 | 🐛 154 | 🌐 Python | 📅 2026-10-13 - A configuration language guaranteed to terminate
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -184,7 +184,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,998 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,000 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
 
 ## Data Structures
 
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,545 | 🐛 1,282 | 🌐 Haskell | 📅 2026-10-11 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,549 | 🐛 1,285 | 🌐 Haskell | 📅 2026-10-12 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -379,7 +379,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Streaming Processing
 
 * [Conduit](https://github.com/snoyberg/conduit) ⭐ 913 | 🐛 57 | 🌐 Haskell | 📅 2025-06-26 - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
-* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 722 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
+* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 723 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
 * [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) ⭐ 493 | 🐛 15 | 🌐 Haskell | 📅 2022-10-15 - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
 
@@ -410,7 +410,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Tutorials
 
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,029 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,028 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
@@ -471,4 +471,4 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

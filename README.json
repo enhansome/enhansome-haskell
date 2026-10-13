@@ -88,7 +88,7 @@
             "open_issues": 262,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313,
+            "stars": 6314,
             "topics": [
               "configuration-library",
               "hocon",
@@ -109,7 +109,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-11T20:50:14Z",
+            "last_commit": "2026-10-13T01:50:53Z",
             "open_issues": 154,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2998,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T22:26:44Z",
-            "open_issues": 1282,
+            "last_commit": "2026-10-12T22:00:35Z",
+            "open_issues": 1285,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19545,
+            "stars": 19549,
             "topics": [
               "chat",
               "double-ratchet",
@@ -351,7 +351,7 @@
             "open_issues": 11,
             "owner": "hstreamdb",
             "repo": "hstream",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "data-processing",
               "database",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8029,
+                "stars": 8028,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T03:12:08.216Z",
+    "last_updated": "2026-10-13T04:27:35.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
