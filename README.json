@@ -16,7 +16,7 @@
             "language": "Haskell",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T10:30:15Z",
-            "open_issues": 607,
+            "open_issues": 608,
             "owner": "commercialhaskell",
             "repo": "stack",
             "stars": 4078,
@@ -88,7 +88,7 @@
             "open_issues": 262,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6314,
+            "stars": 6315,
             "topics": [
               "configuration-library",
               "hocon",
@@ -109,7 +109,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T01:50:53Z",
+            "last_commit": "2026-10-13T06:03:05Z",
             "open_issues": 154,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T22:00:35Z",
-            "open_issues": 1285,
+            "last_commit": "2026-10-13T20:19:50Z",
+            "open_issues": 1282,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19549,
+            "stars": 19560,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T04:27:35.369Z",
+    "last_updated": "2026-10-14T02:37:30.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3278,
+      "stars": 3277,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
