@@ -36,7 +36,7 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-14T06:11:27Z",
+            "last_commit": "2026-10-15T21:26:38Z",
             "open_issues": 72,
             "owner": "commercialhaskell",
             "repo": "stackage",
@@ -85,7 +85,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-10-06T14:25:24Z",
-            "open_issues": 262,
+            "open_issues": 261,
             "owner": "lightbend",
             "repo": "config",
             "stars": 6315,
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T23:07:41Z",
-            "open_issues": 1291,
+            "last_commit": "2026-10-15T21:37:36Z",
+            "open_issues": 1284,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19566,
+            "stars": 19571,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T02:17:30.271Z",
+    "last_updated": "2026-10-16T02:09:36.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
