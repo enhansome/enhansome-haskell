@@ -19,7 +19,7 @@
             "open_issues": 608,
             "owner": "commercialhaskell",
             "repo": "stack",
-            "stars": 4077,
+            "stars": 4078,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -85,7 +85,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-10-06T14:25:24Z",
-            "open_issues": 261,
+            "open_issues": 262,
             "owner": "lightbend",
             "repo": "config",
             "stars": 6317,
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T05:15:42Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-19T09:04:49Z",
+            "open_issues": 155,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 973,
@@ -218,7 +218,7 @@
             "open_issues": 20,
             "owner": "haskell",
             "repo": "HTTP",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T01:37:32Z",
-            "open_issues": 1303,
+            "last_commit": "2026-10-19T23:17:56Z",
+            "open_issues": 1295,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19580,
+            "stars": 19586,
             "topics": [
               "chat",
               "double-ratchet",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8027,
+                "stars": 8028,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -447,7 +447,7 @@
                     "open_issues": 29,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1774,
+                    "stars": 1775,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T02:19:23.926Z",
+    "last_updated": "2026-10-20T02:33:06.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
