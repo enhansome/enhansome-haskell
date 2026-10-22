@@ -15,8 +15,8 @@
             "id": 34817922,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T00:08:25Z",
-            "open_issues": 609,
+            "last_commit": "2026-10-21T23:48:54Z",
+            "open_issues": 607,
             "owner": "commercialhaskell",
             "repo": "stack",
             "stars": 4079,
@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-20T08:07:09Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-21T08:58:23Z",
+            "open_issues": 73,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 550,
@@ -88,7 +88,7 @@
             "open_issues": 262,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6317,
+            "stars": 6318,
             "topics": [
               "configuration-library",
               "hocon",
@@ -171,7 +171,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3000,
+            "stars": 2999,
             "topics": [
               "c",
               "csharp",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T01:15:42Z",
+            "last_commit": "2026-10-21T22:20:23Z",
             "open_issues": 1298,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19576,
+            "stars": 19580,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T02:27:13.078Z",
+    "last_updated": "2026-10-22T02:23:09.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
