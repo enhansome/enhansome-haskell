@@ -88,7 +88,7 @@
             "open_issues": 264,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6321,
+            "stars": 6320,
             "topics": [
               "configuration-library",
               "hocon",
@@ -109,8 +109,8 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T22:40:59Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-27T20:49:37Z",
+            "open_issues": 152,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 974,
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T20:19:21Z",
-            "open_issues": 1260,
+            "last_commit": "2026-10-27T23:05:15Z",
+            "open_issues": 1265,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19603,
+            "stars": 19606,
             "topics": [
               "chat",
               "double-ratchet",
@@ -421,7 +421,7 @@
                 "open_issues": 13,
                 "owner": "bitemyapp",
                 "repo": "learnhaskell",
-                "stars": 8027,
+                "stars": 8028,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:48:54.804Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:50:29.680Z",
+    "last_updated": "2026-10-28T02:58:05.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3278,
+      "stars": 3277,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
