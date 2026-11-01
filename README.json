@@ -15,8 +15,8 @@
             "id": 34817922,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T00:19:29Z",
-            "open_issues": 608,
+            "last_commit": "2026-10-31T20:13:49Z",
+            "open_issues": 607,
             "owner": "commercialhaskell",
             "repo": "stack",
             "stars": 4081,
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T20:58:35Z",
-            "open_issues": 1276,
+            "last_commit": "2026-10-31T22:30:16Z",
+            "open_issues": 1272,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19619,
+            "stars": 19618,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T03:11:33.773Z",
+    "last_updated": "2026-11-01T03:07:57.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
