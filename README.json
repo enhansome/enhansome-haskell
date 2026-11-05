@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:03:00Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-05T03:50:51Z",
+            "open_issues": 73,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 550,
@@ -218,7 +218,7 @@
             "open_issues": 20,
             "owner": "haskell",
             "repo": "HTTP",
-            "stars": 185,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T21:58:53Z",
-            "open_issues": 1286,
+            "last_commit": "2026-11-04T16:30:58Z",
+            "open_issues": 1289,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19641,
+            "stars": 19644,
             "topics": [
               "chat",
               "double-ratchet",
@@ -351,7 +351,7 @@
             "open_issues": 11,
             "owner": "hstreamdb",
             "repo": "hstream",
-            "stars": 723,
+            "stars": 722,
             "topics": [
               "data-processing",
               "database",
@@ -447,7 +447,7 @@
                     "open_issues": 33,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1776,
+                    "stars": 1775,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:51:16.179Z",
+    "last_updated": "2026-11-05T04:09:07.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
