@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,099 | 🐛 103 | 📅 2026-09-02 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,866 | 🐛 103 | 📅 2026-09-02 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -48,7 +48,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## *Basics*
 
 * [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,082 | 🐛 606 | 🌐 Haskell | 📅 2026-11-01 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 73 | 🌐 Dockerfile | 📅 2026-11-05 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 71 | 🌐 Dockerfile | 📅 2026-11-05 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) ⭐ 120 | 🐛 19 | 🌐 Haskell | 📅 2013-12-16 - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
@@ -148,7 +148,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,370 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
+* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,371 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
 
 ## Data Formats
 
@@ -184,7 +184,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,999 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,000 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
 
 ## Data Structures
 
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,644 | 🐛 1,289 | 🌐 Haskell | 📅 2026-11-04 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,649 | 🐛 1,282 | 🌐 Haskell | 📅 2026-11-05 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -422,7 +422,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
   ### Web Tutorials
 
-  * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples) ⭐ 1,775 | 🐛 33 | 🌐 Haskell | 📅 2026-06-26
+  * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples) ⭐ 1,776 | 🐛 33 | 🌐 Haskell | 📅 2026-06-26
   * [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
   * [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
   * [Getting Started](https://www.spock.li/tutorials/getting-started)
@@ -471,4 +471,4 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
