@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,866 | 🐛 103 | 📅 2026-09-02 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,583 | 🐛 103 | 📅 2026-09-02 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -47,8 +47,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## *Basics*
 
-* [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,082 | 🐛 606 | 🌐 Haskell | 📅 2026-11-01 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 71 | 🌐 Dockerfile | 📅 2026-11-05 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,081 | 🐛 606 | 🌐 Haskell | 📅 2026-11-01 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
+* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 69 | 🌐 Dockerfile | 📅 2026-11-06 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) ⭐ 120 | 🐛 19 | 🌐 Haskell | 📅 2013-12-16 - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
@@ -134,7 +134,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Configuration
 
-* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,321 | 🐛 265 | 🌐 Java | 📅 2026-10-23 config format
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,320 | 🐛 265 | 🌐 Java | 📅 2026-11-06 config format
 * [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 974 | 🐛 152 | 🌐 Python | 📅 2026-11-03 - A configuration language guaranteed to terminate
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
@@ -148,7 +148,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,371 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
+* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,368 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
 
 ## Data Formats
 
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,649 | 🐛 1,282 | 🌐 Haskell | 📅 2026-11-05 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,652 | 🐛 1,294 | 🌐 Haskell | 📅 2026-11-06 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -471,4 +471,4 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
