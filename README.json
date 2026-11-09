@@ -36,8 +36,8 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-07T13:12:43Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-09T00:23:30Z",
+            "open_issues": 69,
             "owner": "commercialhaskell",
             "repo": "stackage",
             "stars": 550,
@@ -88,7 +88,7 @@
             "open_issues": 265,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6320,
+            "stars": 6321,
             "topics": [
               "configuration-library",
               "hocon",
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T16:19:02Z",
-            "open_issues": 1290,
+            "last_commit": "2026-11-08T17:03:04Z",
+            "open_issues": 1299,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19658,
+            "stars": 19665,
             "topics": [
               "chat",
               "double-ratchet",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T03:15:43.582Z",
+    "last_updated": "2026-11-09T03:36:10.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
@@ -515,7 +515,7 @@
       "open_issues": 17,
       "owner": "krispo",
       "repo": "awesome-haskell",
-      "stars": 3277,
+      "stars": 3278,
       "topics": []
     },
     "original_repository_sha": "acb1dca40bb9045d2d93d9649209ed9928aad2d8",
