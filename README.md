@@ -1,6 +1,6 @@
 # Awesome Haskell with stars
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,941 | 🐛 103 | 📅 2026-09-02 projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,382 | 🐛 103 | 📅 2026-09-02 projects line.
 
 * [Awesome Haskell](#awesome-haskell)
   * [*Basics*](#basics)
@@ -47,8 +47,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## *Basics*
 
-* [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,082 | 🐛 606 | 🌐 Haskell | 📅 2026-11-01 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 69 | 🌐 Dockerfile | 📅 2026-11-09 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Stack](https://github.com/commercialhaskell/stack) ⭐ 4,084 | 🐛 606 | 🌐 Haskell | 📅 2026-11-01 - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
+* [Stackage](https://github.com/fpco/stackage) ⭐ 550 | 🐛 70 | 🌐 Dockerfile | 📅 2026-11-09 - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [hsenv](https://github.com/Paczesiowa/hsenv/) ⭐ 120 | 🐛 19 | 🌐 Haskell | 📅 2013-12-16 - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
@@ -134,8 +134,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Configuration
 
-* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,321 | 🐛 265 | 🌐 Java | 📅 2026-11-06 config format
-* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 974 | 🐛 152 | 🌐 Python | 📅 2026-11-03 - A configuration language guaranteed to terminate
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) ⭐ 6,320 | 🐛 266 | 🌐 Java | 📅 2026-11-06 config format
+* [Dhall](https://github.com/dhall-lang/dhall-haskell) ⭐ 974 | 🐛 152 | 🌐 Python | 📅 2026-11-09 - A configuration language guaranteed to terminate
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -148,7 +148,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,368 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
+* [Haxl](https://github.com/facebook/Haxl) ⭐ 4,367 | 🐛 8 | 🌐 Haskell | 📅 2026-03-15 - a library for efficient, concurrent, concise data access.
 
 ## Data Formats
 
@@ -305,7 +305,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,665 | 🐛 1,299 | 🌐 Haskell | 📅 2026-11-08 - the first chat platform that is 100% private by design - it has no access to your connection graph!
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) ⭐ 19,673 | 🐛 1,305 | 🌐 Haskell | 📅 2026-11-09 - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [amqp](https://github.com/hreinhardt/amqp) ⭐ 129 | 🐛 9 | 🌐 Haskell | 📅 2024-10-14 - client library for AMQP servers (currently only RabbitMQ).
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -379,8 +379,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Streaming Processing
 
 * [Conduit](https://github.com/snoyberg/conduit) ⭐ 913 | 🐛 57 | 🌐 Haskell | 📅 2025-06-26 - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
-* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 722 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
-* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) ⭐ 493 | 🐛 15 | 🌐 Haskell | 📅 2022-10-15 - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 723 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
+* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) ⭐ 494 | 🐛 15 | 🌐 Haskell | 📅 2022-10-15 - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
 
 # Resources
@@ -410,7 +410,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Tutorials
 
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,028 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,029 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 - Haskell Learning (also for non-English speakers).
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
@@ -471,4 +471,4 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
