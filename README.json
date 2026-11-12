@@ -36,7 +36,7 @@
             "id": 6774018,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:09:16Z",
+            "last_commit": "2026-11-12T00:07:29Z",
             "open_issues": 72,
             "owner": "commercialhaskell",
             "repo": "stackage",
@@ -144,7 +144,7 @@
             "open_issues": 8,
             "owner": "meta",
             "repo": "Haxl",
-            "stars": 4368,
+            "stars": 4369,
             "topics": []
           },
           "first_seen": "2026-08-28T07:48:54.804Z"
@@ -268,11 +268,11 @@
             "id": 229407566,
             "language": "Haskell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T15:47:54Z",
+            "last_commit": "2026-11-11T21:55:17Z",
             "open_issues": 1312,
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19679,
+            "stars": 19682,
             "topics": [
               "chat",
               "double-ratchet",
@@ -447,7 +447,7 @@
                     "open_issues": 33,
                     "owner": "scotty-web",
                     "repo": "scotty",
-                    "stars": 1776,
+                    "stars": 1777,
                     "topics": [
                       "rest",
                       "rest-api",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:41:39.834Z",
+    "last_updated": "2026-11-12T04:50:07.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
